@@ -3,5 +3,5 @@
 git/github　演習
 
 <dl>
-<dt>git-tutorial.mdのリンク：</dt>https://github.com/nyantamu/hello-world/blob/main/git-tutorial.md
+<dt>git-tutorial.mdのリンク：</dt>https://github.com/kakikik/hello-world/blob/main/git-tutorial.md
 </dl>
